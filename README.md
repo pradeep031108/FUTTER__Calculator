@@ -1,2 +1,3 @@
-# FUTTER__Calculator
-A Simple calculator app build with flutter supporting basic arithmetic operations.
+# calculator_app
+
+A new Flutter project.
