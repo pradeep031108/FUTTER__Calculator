@@ -17,7 +17,7 @@ This app provides a clean and user-friendly interface and works on both Android 
 ## Screenshots
 
 
-![Uploading image.png…]()
+<img width="1920" height="1010" alt="image" src="https://github.com/user-attachments/assets/99be3015-5f60-43f6-84a4-da9b06104e9c" />
 
 -------
 ## Technology Used
@@ -26,6 +26,7 @@ This app provides a clean and user-friendly interface and works on both Android 
 
 ## Author
 R.Pradeep
+
 
 
 
